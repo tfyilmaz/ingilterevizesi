@@ -743,15 +743,15 @@ footer {
         flex-direction: row;
         justify-content: space-around;
         align-items: center;
-        padding: 8px 5px;
-        gap: 5px;
+        padding: 8px 2px;
+        gap: 2px;
     }
 
     .nav-menu li a {
         flex-direction: column;
         justify-content: center;
-        padding: 8px 10px;
-        font-size: 0.75rem;
+        padding: 8px 6px;
+        font-size: 0.7rem;
         gap: 4px;
     }
 
