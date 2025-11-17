@@ -11,7 +11,7 @@
  */
 
 const pricing = {
-    // GRUP 1: Antalya, İzmir, Adana, İstanbul (Anadolu Yakası)
+    // GRUP 1: Antalya, İzmir, Adana
     group1: {
         '6month': '310',      // 6 Aylık Vize
         '2year': '650',       // 2 Yıllık Vize
@@ -27,12 +27,12 @@ const pricing = {
         '10year': '1,275'     // 10 Yıllık Vize
     },
     
-    // GRUP 3: Bursa
+    // GRUP 3: Bursa, İstanbul (Anadolu Yakası)
     group3: {
-        '6month': '460',      // 6 Aylık Vize
-        '2year': '800',       // 2 Yıllık Vize
-        '5year': '1,270',     // 5 Yıllık Vize
-        '10year': '1,500'     // 10 Yıllık Vize
+        '6month': '470',      // 6 Aylık Vize
+        '2year': '810',       // 2 Yıllık Vize
+        '5year': '1,280',     // 5 Yıllık Vize
+        '10year': '1,510'     // 10 Yıllık Vize
     }
 };
 
